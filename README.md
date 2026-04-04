@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm John Everett 👋
 
-<!--
-**jeverett32/jeverett32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build machine learning and software systems, and I like turning complex ideas into practical tools.
 
-Here are some ideas to get you started:
+## Quote of the Day
+<!-- PROFILE_QUOTE_START -->
+Open source, open minds, open futures.
+<!-- PROFILE_QUOTE_END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeverett32&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeverett32&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="170" />
+</p>
+
+## Activity Timeline
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeverett32&theme=github-compact&hide_border=true)
+
+## Current Focus
+- Building ML forecasting and experimentation workflows
+- Improving model evaluation and reproducibility
+- Creating useful developer-first tooling
+
+## Connect
+- GitHub: [@jeverett32](https://github.com/jeverett32)
