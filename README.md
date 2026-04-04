@@ -29,27 +29,46 @@
 
 </div>
 
-## Featured Projects
-
-<div align="center">
-
-[![mlb-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=jeverett32&repo=mlb-pipeline&bg_color=0d1117&title_color=70A5FD&icon_color=38BDF8&text_color=ffffff&hide_border=true)](https://github.com/jeverett32/mlb-pipeline)
-[![crisp-dm-claude-skill](https://github-readme-stats.vercel.app/api/pin/?username=jeverett32&repo=crisp-dm-claude-skill&bg_color=0d1117&title_color=70A5FD&icon_color=38BDF8&text_color=ffffff&hide_border=true)](https://github.com/jeverett32/crisp-dm-claude-skill)
-
-[![March-Madness-ML-Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=jeverett32&repo=March-Madness-ML-Pipeline&bg_color=0d1117&title_color=70A5FD&icon_color=38BDF8&text_color=ffffff&hide_border=true)](https://github.com/jeverett32/March-Madness-ML-Pipeline)
-[![outliernodemodeltraining](https://github-readme-stats.vercel.app/api/pin/?username=jeverett32&repo=outliernodemodeltraining&bg_color=0d1117&title_color=70A5FD&icon_color=38BDF8&text_color=ffffff&hide_border=true)](https://github.com/jeverett32/outliernodemodeltraining)
-
-</div>
-
 ---
 
-## 💬 Quote of the Day
+## 🚀 Featured Projects
 
 <div align="center">
 
-<!-- PROFILE_QUOTE_START -->
-Open source, open minds, open futures.
-<!-- PROFILE_QUOTE_END -->
+<table>
+<tr>
+<td align="center" width="50%">
+
+**⚾ MLB Pipeline**
+
+[![mlb-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=jeverett32&repo=mlb-pipeline&bg_color=0d1117&title_color=70A5FD&icon_color=38BDF8&text_color=ffffff&hide_border=true&cache_seconds=86400)](https://github.com/jeverett32/mlb-pipeline)
+
+</td>
+<td align="center" width="50%">
+
+**🤖 CRISP-DM Claude Skill**
+
+[![crisp-dm-claude-skill](https://github-readme-stats.vercel.app/api/pin/?username=jeverett32&repo=crisp-dm-claude-skill&bg_color=0d1117&title_color=70A5FD&icon_color=38BDF8&text_color=ffffff&hide_border=true&cache_seconds=86400)](https://github.com/jeverett32/crisp-dm-claude-skill)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**🏀 March Madness ML Pipeline**
+
+[![March-Madness-ML-Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=jeverett32&repo=March-Madness-ML-Pipeline&bg_color=0d1117&title_color=70A5FD&icon_color=38BDF8&text_color=ffffff&hide_border=true&cache_seconds=86400)](https://github.com/jeverett32/March-Madness-ML-Pipeline)
+
+</td>
+<td align="center" width="50%">
+
+**📊 Outlier Node Model Training**
+
+[![outliernodemodeltraining](https://github-readme-stats.vercel.app/api/pin/?username=jeverett32&repo=outliernodemodeltraining&bg_color=0d1117&title_color=70A5FD&icon_color=38BDF8&text_color=ffffff&hide_border=true&cache_seconds=86400)](https://github.com/jeverett32/outliernodemodeltraining)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -59,8 +78,8 @@ Open source, open minds, open futures.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeverett32&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=38BDF8&text_color=ffffff" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeverett32&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=38BDF8&text_color=ffffff" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jeverett32&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=38BDF8&text_color=ffffff&cache_seconds=86400" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeverett32&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=38BDF8&text_color=ffffff&cache_seconds=86400" alt="Top Languages" height="180"/>
 
 </div>
 
@@ -92,6 +111,18 @@ Open source, open minds, open futures.
 Building end-to-end ML pipelines that actually ship.
 From data ingestion to model deployment — the whole system matters.
 ```
+
+---
+
+## 💭 Daily Wisdom
+
+<div align="center">
+
+> <!-- PROFILE_QUOTE_START -->
+> *Open source, open minds, open futures.*
+> <!-- PROFILE_QUOTE_END -->
+
+</div>
 
 ---
 
