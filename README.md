@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm John Everett 👋
+# Hey, I'm John 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Pipeline+Architect;From+Raw+Data+to+Production+Models;I+Don't+Just+Build+Models%2C+I+Build+Systems)](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Pipeline+Architect;From+Raw+Data+to+Production+Models;I+Don't+Just+Build+Models%2C+I+Build+Systems)
 
