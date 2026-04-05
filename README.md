@@ -119,8 +119,8 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-> *Open source, open minds, open futures.*
-> <!-- PROFILE_QUOTE_END -->
+Keep it simple, but significant.
+<!-- PROFILE_QUOTE_END -->
 
 </div>
 
