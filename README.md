@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Refactor often; the code you touch today becomes the future you thank tomorrow.
+Measure twice, code once.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
