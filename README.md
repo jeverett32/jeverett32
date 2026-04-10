@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Measure twice, code once.
+Iterate fast, learn faster.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
