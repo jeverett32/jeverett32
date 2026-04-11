@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Iterate fast, learn faster.
+Good ideas are useless without good execution.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
