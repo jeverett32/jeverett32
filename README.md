@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Write code for humans first, machines second.
+Make it work, then make it nice.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
