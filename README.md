@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Conversations with code teach us more than code teaches us.
+Code is poetry when it reads like music to the mind.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
