@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Empathy for future maintainers is the best optimization.
+Be stubborn about details; flexible about approaches.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
