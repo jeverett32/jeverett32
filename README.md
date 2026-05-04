@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Open source, open minds, open futures.
+Code is the architecture of thoughts translated into action.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
