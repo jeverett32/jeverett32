@@ -39,7 +39,7 @@
 <tr>
 <td align="center" width="50%">
 
-**⚾ MLB Pipeline**
+**⚾ MLB Intelligence**
 
 [![mlb-intelligence](https://github-readme-stats.vercel.app/api/pin/?username=jeverett32&repo=mlb-intelligence&bg_color=0d1117&title_color=70A5FD&icon_color=38BDF8&text_color=ffffff&hide_border=true&cache_seconds=86400)](https://github.com/jeverett32/mlb-intelligence)
 
