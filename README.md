@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-If it hurts, fix the bottleneck.
+Tests are the safety rails of invention.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
