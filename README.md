@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Dream big, ship small, document everything.
+Empathy for future maintainers is the best optimization.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
