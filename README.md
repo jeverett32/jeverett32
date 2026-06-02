@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Be stubborn about details; flexible about approaches.
+Open source, open minds, open futures.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
