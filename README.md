@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Good ideas are useless without good execution.
+Comfort with ambiguity is a feature, not a bug.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
