@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Make it work, then make it nice.
+If it hurts, fix the bottleneck.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
