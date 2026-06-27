@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Seek feedback early; breakages in the morning save hours later.
+Less code, fewer bugs, longer maintainability.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
