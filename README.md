@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Design for testing; test for design.
+Dream big, ship small, document everything.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
