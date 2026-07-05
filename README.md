@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Keep it simple, but significant.
+Failures are just feedback on the path to better ideas.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
