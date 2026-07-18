@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Patterns exist to be understood, not worshipped.
+Performance without clarity is a hidden bottleneck.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
