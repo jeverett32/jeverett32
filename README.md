@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Security is baked in, not bolted on.
+Latency is a user experience issue, not a metric.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
