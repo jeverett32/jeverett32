@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Latency is a user experience issue, not a metric.
+Conversations with code teach us more than code teaches us.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
