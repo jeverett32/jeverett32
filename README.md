@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Code is poetry when it reads like music to the mind.
+Consistency beats cleverness every time.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
