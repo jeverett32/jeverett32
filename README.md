@@ -119,7 +119,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Better abstractions today prevent bigger problems tomorrow.
+Seek feedback early; breakages in the morning save hours later.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
