@@ -140,7 +140,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Consistency beats cleverness every time.
+Better abstractions today prevent bigger problems tomorrow.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
