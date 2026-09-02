@@ -140,7 +140,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Code is the architecture of thoughts translated into action.
+Keep it simple, but significant.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
