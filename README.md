@@ -140,7 +140,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Failures are just feedback on the path to better ideas.
+Simplicity is the ultimate sophistication.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
