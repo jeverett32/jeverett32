@@ -140,7 +140,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Comfort with ambiguity is a feature, not a bug.
+Write code for humans first, machines second.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
