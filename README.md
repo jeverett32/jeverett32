@@ -140,7 +140,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Documentation is a love letter to the future you.
+Patterns exist to be understood, not worshipped.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
