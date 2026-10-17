@@ -140,7 +140,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Performance without clarity is a hidden bottleneck.
+Quality is a feature, not a bug.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
