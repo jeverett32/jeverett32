@@ -140,7 +140,7 @@ From data ingestion to model deployment — the whole system matters.
 <div align="center">
 
 > <!-- PROFILE_QUOTE_START -->
-Quality is a feature, not a bug.
+Security is baked in, not bolted on.
 <!-- PROFILE_QUOTE_END -->
 
 </div>
